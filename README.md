@@ -39,3 +39,9 @@ run_experiment.py
 
 ## Disclaimer
 This code is shared for academic purposes only.
+
+## Note on Notebooks
+Jupyter notebooks included in this repository contain **code only**.
+All execution outputs, figures, and intermediate results have been
+explicitly cleared prior to publication.
+
