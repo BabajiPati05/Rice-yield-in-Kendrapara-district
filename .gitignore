@@ -216,8 +216,8 @@ results/
 *.jpg
 *.pdf
 
-# Notebooks
-*.ipynb
+# Jupyter Notebook
+.ipynb_checkpoints/
 
 # Models
 *.pkl
